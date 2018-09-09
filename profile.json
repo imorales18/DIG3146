@@ -1,0 +1,22 @@
+{
+	"firstName" : "Isaiah",
+	"lastName" 	: "Morales",
+	"displayHandle" : "Actually_Hawaiian",
+	"posts" : [
+	
+	{
+		"Status": "Aloha, my bruddas and sistas",
+	},
+	{
+		"Status": "Aloha, my bruddas and sistas",
+	},
+	{
+		"Status": "I'm back my bruddas and sistas",
+	},
+	
+	],
+
+	"age": 22,
+
+	"active": true,
+}

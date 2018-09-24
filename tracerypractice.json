@@ -1,0 +1,73 @@
+{
+	"name": [
+		"Shikan",
+		"Chad",
+		"Veronica",
+		"Stacy",
+		"Jayden",
+		"Nikki",
+		"Maragret",
+		"Bryce",
+		"Terry",
+		"Abdul",
+		"Mohammad"
+	],
+	
+	"occupation": [
+		"Web Dev",
+		"Game Dev",
+		"Russian election haker",
+		"Youtube celeb",
+		"Twitch Streamer",
+		"Wikipedia admin",
+		"Data miner",
+		"NFL kneeler",
+		"KFC manager",
+		"FBI forensics analyst"
+	],
+	
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #outcome#, until #until#."
+	],
+
+	"always": [
+		"never",
+		"rarely",
+		"always",	
+		"sparatically",
+		"infrequently",
+		"not under any condition",
+		"absolutely",
+		"sometimes"
+	],
+
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"looking forward to",
+		"supposing for",
+		"conceptualizing"
+	],
+
+	"outcome": [
+		"job to fullfill their dreams",
+		"life to show what was what",
+		"website to bring non fake-news",
+		"bearded homeless man to find a way out",
+		"food critic to let go of what happened in '98",
+		"game console to bring new Fortnite dance emotes",
+		"country to realize that the Middle East isn't ripe for tourism at the moment",
+		"state of North Carolina to finally ban jean short strippers in the capital"
+
+	],
+
+	"until": [
+		"they saw what really could be done with a candy cane snake",
+		"they found out that the Third Riech was indeed a word in the dictionary",
+		"they wanted to find God",
+		"they brought the election to a halt with one really awkward clap",
+		"they found Stranger Things season 2 to be a bit lack-luster",
+		"they finally figured out that Pi is indeed a irrational number",
+		"they got over their Oedipus Complex, and just started living again. Click to find out more."
+	]
+}
